@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830px" height="19px" viewBox="0 0 830 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>videotop</title>
+    <defs>
+        <linearGradient x1="0%" y1="1.58210904e-15%" x2="107.956459%" y2="99.2466518%" id="linearGradient-1">
+            <stop stop-color="#F6F4F9" offset="0%"></stop>
+            <stop stop-color="#CECBE4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="3.061617e-15%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#C8BFD5" offset="0%"></stop>
+            <stop stop-color="#F1F1F9" stop-opacity="0.5" offset="1.03728612%"></stop>
+            <stop stop-color="#E4E4F1" stop-opacity="0.5" offset="1.98047158%"></stop>
+            <stop stop-color="#DDDCED" stop-opacity="0.5" offset="2.91709686%"></stop>
+            <stop stop-color="#F4F2F8" offset="18.0457937%"></stop>
+            <stop stop-color="#CCCADD" stop-opacity="0.60296066" offset="94.6236262%"></stop>
+            <stop stop-color="#E5E4F1" stop-opacity="0.570462189" offset="96.2197128%"></stop>
+            <stop stop-color="#FFFEFF" stop-opacity="0.542792149" offset="97.7042068%"></stop>
+            <stop stop-color="#F6F5FA" stop-opacity="0.518340048" offset="99.0160589%"></stop>
+            <stop stop-color="#A7A5CD" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9992883%" y1="100%" x2="49.9992883%" y2="0.00196409385%" id="linearGradient-3">
+            <stop stop-color="#404040" offset="0%"></stop>
+            <stop stop-color="#434343" offset="28%"></stop>
+            <stop stop-color="#4B4B4B" offset="45%"></stop>
+            <stop stop-color="#595959" offset="59%"></stop>
+            <stop stop-color="#6D6D6D" offset="71%"></stop>
+            <stop stop-color="#888888" offset="82%"></stop>
+            <stop stop-color="#A7A7A7" offset="92%"></stop>
+            <stop stop-color="#C5C5C5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="5.59868856e-16%" x2="105.613415%" y2="97.0926418%" id="linearGradient-4">
+            <stop stop-color="#DDD8E6" offset="0%"></stop>
+            <stop stop-color="#9992AF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50.7692308%" x2="100%" y2="50.7692308%" id="linearGradient-5">
+            <stop stop-color="#F8F8F8" offset="1%"></stop>
+            <stop stop-color="#D0D0D0" offset="6%"></stop>
+            <stop stop-color="#F8F8F8" offset="50%"></stop>
+            <stop stop-color="#D0D0D0" offset="87%"></stop>
+            <stop stop-color="#D3D3D3" offset="88%"></stop>
+            <stop stop-color="#E9E9E9" offset="95%"></stop>
+            <stop stop-color="#F1F1F1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="1.04085459e-14%" x2="105.613415%" y2="97.0926418%" id="linearGradient-6">
+            <stop stop-color="#DDD8E6" offset="0%"></stop>
+            <stop stop-color="#9992AF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="99.9987785%" x2="50%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#575757" offset="0%"></stop>
+            <stop stop-color="#B9B9B9" offset="74%"></stop>
+            <stop stop-color="#B6B6B6" offset="85%"></stop>
+            <stop stop-color="#ACACAC" offset="94%"></stop>
+            <stop stop-color="#9F9F9F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="videotop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mac_top" transform="translate(13.000000, 3.000000)" fill-rule="nonzero">
+            <g id="Fill-6" transform="translate(0.000000, 7.500000)">
+                <g id="path-3-link" fill="url(#linearGradient-1)">
+                    <polygon id="path-3" points="0 5.668 804.669983 5.668 804.669983 0 0 0"></polygon>
+                </g>
+                <g id="path-3-link" fill="url(#linearGradient-2)">
+                    <polygon id="path-3" points="0 5.668 804.669983 5.668 804.669983 0 0 0"></polygon>
+                </g>
+                <g id="path-3-link" style="mix-blend-mode: color;" fill="url(#linearGradient-3)">
+                    <polygon id="path-3" points="0 5.668 804.669983 5.668 804.669983 0 0 0"></polygon>
+                </g>
+            </g>
+            <g id="Fill-6" transform="translate(0.000000, 12.334000)">
+                <g id="path-5-link" fill="url(#linearGradient-4)">
+                    <polygon id="path-5" points="0 0.834 804.667 0.834 804.667 0.166 0 0.166"></polygon>
+                </g>
+                <g id="path-5-link" style="mix-blend-mode: color;" fill="url(#linearGradient-5)">
+                    <polygon id="path-5" points="0 0.834 804.667 0.834 804.667 0.166 0 0.166"></polygon>
+                </g>
+            </g>
+            <g id="Fill-8" transform="translate(402.333500, 3.750000) scale(-1, 1) rotate(-180.000000) translate(-402.333500, -3.750000) translate(0.000000, 0.000000)">
+                <g id="path-6-link" fill="url(#linearGradient-6)">
+                    <path d="M0,0 C0,4.694 25.958,6.5 48.5,6.5 C205.762159,7.16666667 323.595492,7.5 402,7.5 C480.854603,7.5 598.909937,7.16666667 756.166,6.5 C778.709,6.5 804.667,4.694 804.667,0 L0,0 Z" id="path-6"></path>
+                </g>
+                <g id="path-6-link" style="mix-blend-mode: color;" fill="#D1F9FF" fill-opacity="0.25">
+                    <path d="M0,0 C0,4.694 25.958,6.5 48.5,6.5 C205.762159,7.16666667 323.595492,7.5 402,7.5 C480.854603,7.5 598.909937,7.16666667 756.166,6.5 C778.709,6.5 804.667,4.694 804.667,0 L0,0 Z" id="path-6"></path>
+                </g>
+                <g id="path-6-link" fill="url(#linearGradient-7)">
+                    <path d="M0,0 C0,4.694 25.958,6.5 48.5,6.5 C205.762159,7.16666667 323.595492,7.5 402,7.5 C480.854603,7.5 598.909937,7.16666667 756.166,6.5 C778.709,6.5 804.667,4.694 804.667,0 L0,0 Z" id="path-6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
